@@ -1,10 +1,20 @@
 # PHP CRUD Generator
 
+![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4?logo=php&logoColor=white)
+![Databases](https://img.shields.io/badge/DB-MySQL%20%7C%20MariaDB%20%7C%20PostgreSQL%20%7C%20Oracle%20%7C%20Firebird-4479A1?logo=mysql&logoColor=white)
+![UI](https://img.shields.io/badge/UI-Bootstrap%204%2F5-7952B3?logo=bootstrap&logoColor=white)
+![Self-Hosted](https://img.shields.io/badge/Self--Hosted-100%25-success)
+![License](https://img.shields.io/badge/License-Proprietary-red)
+[![Website](https://img.shields.io/badge/Website-phpcrudgenerator.com-blue)](https://www.phpcrudgenerator.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_it_online-orange)](https://www.phpcrudgenerator.com/crud-generator-demo)
+
 **PHP CRUD Generator** is a self-hosted PHP application that instantly creates a full-featured **Bootstrap admin panel** from any MySQL database. Designed for developers, freelancers, agencies, and technical teams, it eliminates the need to code repetitive CRUD logic by hand.
 
 With a few clicks, you can generate a complete backend interface to manage your database records — including search, filtering, editing, exporting, and role-based access control.
 
 🔗 [phpcrudgenerator.com](https://www.phpcrudgenerator.com) &nbsp;&nbsp;🌍 Multilingual Support &nbsp;&nbsp;💼 One-Time License
+
+**Featured on** [AlternativeTo](https://alternativeto.net/software/php-crud-generator/) · [SourceForge](https://sourceforge.net/software/product/PHP-CRUD-Generator/) · [Slashdot](https://slashdot.org/software/p/PHP-CRUD-Generator/) · [StackShare](https://stackshare.io/companies/php-crud-generator) · [StarterStory](https://starterstory.com/stories/php-crud-generator)
 
 ---
 
@@ -104,14 +114,16 @@ Beyond these, it serves as a robust solution for any project requiring a reliabl
 
 - 🏠 [Homepage (PHP CRUD)](https://www.phpcrudgenerator.com)
 - 📖 [Documentation](https://www.phpcrudgenerator.com/documentation)
-- 🧪 [Live Demo](https://www.phpcrudgenerator.com/admin/home)
+- 🧪 [Live Demo](https://www.phpcrudgenerator.com/crud-generator-demo)
 - ❓ [Help Center / FAQ](https://www.phpcrudgenerator.com/help-center)
 - 🌍 *Multilingual: English, French, German, Italian, Czech, Spanish*
 
-> 🔐 PHP CRUD Generator is a closed-source commercial product. It is licensed per domain with a one-time payment and includes lifetime updates and support.
+> 🔐 PHP CRUD Generator is a closed-source commercial product, distributed under a proprietary license (see [LICENSE](LICENSE)). It is licensed per project with a one-time payment and includes lifetime updates and support.
 
 ---
 
 Give your projects a **professional admin interface** in just a few minutes — without repetitive coding.
 
 👉 [Get Started with PHP CRUD Generator](https://www.phpcrudgenerator.com)
+
+[![As seen on StarterStory](https://img.shields.io/badge/As_seen_on-StarterStory-orange)](https://starterstory.com/stories/php-crud-generator)
