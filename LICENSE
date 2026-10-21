@@ -1,0 +1,47 @@
+PHP CRUD Generator - Proprietary License Notice
+
+Copyright (c) 2026 Gilles Migliori (PHPCG). All rights reserved.
+
+PHP CRUD Generator is a closed-source, commercial software product
+published at https://www.phpcrudgenerator.com.
+
+1. No open-source license. This software is NOT licensed under any
+   open-source license approved by the Open Source Initiative. All
+   rights not expressly granted below are reserved by the copyright
+   holder.
+
+2. Use of the software. Any use of the PHP CRUD Generator software
+   requires a valid commercial license purchased from
+   https://www.phpcrudgenerator.com. The Standard License covers one
+   project - the admin panel generated for one database, on the domain
+   assigned to the license and its sub-domains - with a second hostname
+   (e.g. localhost) enabled for development. Licenses are one-time
+   purchases with lifetime updates.
+
+3. No redistribution. You may not copy, modify, merge, publish,
+   distribute, sublicense, sell, or resell the software, in whole or in
+   part, except as expressly permitted by your commercial license.
+
+4. This repository. This repository contains no software source code.
+   It is provided for informational purposes only (product overview,
+   screenshots and links to the official website and documentation).
+
+5. Repository content. Short quotations of this repository's README
+   content are permitted, provided they include a visible link to
+   https://www.phpcrudgenerator.com. All other use, reproduction or
+   derivative works of this content require prior written permission
+   from the copyright holder.
+
+6. Trademarks. "PHP CRUD Generator" and associated branding remain the
+   property of their owner. Third-party names and logos mentioned in
+   this repository (PHP, MySQL, MariaDB, PostgreSQL, Oracle, Firebird,
+   Bootstrap) are trademarks of their respective owners, used for
+   identification purposes only.
+
+7. Governing terms. The use of the software is governed exclusively by
+   the license terms accepted at purchase. Contact: the help center at
+   https://www.phpcrudgenerator.com/help-center.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
