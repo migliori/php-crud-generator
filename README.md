@@ -1,6 +1,6 @@
 # PHP CRUD Generator
 
-![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4?logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.1%2B-777BB4?logo=php&logoColor=white)
 ![Databases](https://img.shields.io/badge/DB-MySQL%20%7C%20MariaDB%20%7C%20PostgreSQL%20%7C%20Oracle%20%7C%20Firebird-4479A1?logo=mysql&logoColor=white)
 ![UI](https://img.shields.io/badge/UI-Bootstrap%204%2F5-7952B3?logo=bootstrap&logoColor=white)
 ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-100%25-success)
@@ -101,7 +101,7 @@ Beyond these, it serves as a robust solution for any project requiring a reliabl
 
 | Component     | Requirement                          |
 |---------------|--------------------------------------|
-| PHP           | 7.4 or higher                        |
+| PHP           | 8.1 or higher                        |
 | Server        | Apache / Nginx / IIS with URL rewrite |
 | Extensions    | PDO, `mbstring`, `curl`              |
 | Database      | MySQL / MariaDB / PostgreSQL / Oracle / Firebird |
